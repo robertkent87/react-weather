@@ -1,0 +1,7 @@
+.forecast-day {
+    display: inline-block;
+}
+
+.temps .low {
+    margin-right: 20px;
+}
